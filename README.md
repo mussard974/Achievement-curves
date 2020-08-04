@@ -28,4 +28,5 @@ In particular, this python code allows drowing achievement curves accounting for
 
 # References
 Betti, G. & Verma, V. K. (1998), Measuring the degree of poverty in a dynamic and comparative context: a multi-dimensional approach using fuzzy set theory, Working Paper 22, Dipartimento di Metodi Quantitativi, Università di Siena.
+
 Cerioli, A. and S. Zani (1990), A Fuzzy Approach to the Measurement of Poverty, in Dagum C. and Zenga M. (eds.), Income and Wealth Distribution, Inequality and Poverty, Springer Verlag, Berlin, 272-284.
