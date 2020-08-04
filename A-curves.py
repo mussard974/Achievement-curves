@@ -128,7 +128,7 @@ X = np.asarray(genfromtxt(data))
 data1 = "data_risk_alcohol.txt"
 XX = np.asarray(genfromtxt(data1))
 
-## PLOT : comparing two curves - order 2 ##
+## PLOT : comparing two curves - order 4 ##
 curve1 = A_curves(X, alpha = 100, weight="Betti Verma", method="risk aversion", curve="order 4", confidence_interval = None)
 curve2 = A_curves(XX, alpha = 100, weight="Betti Verma", method="risk aversion", curve="order 4", confidence_interval = None)
 plt.plot(X[:,0], curve1, 'r', label='A-curve_smoking (order 4)')
