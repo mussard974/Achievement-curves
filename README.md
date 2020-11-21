@@ -1,6 +1,4 @@
-## Mussard & Pi Alperin 2020 : $\alpha-\nu$ Achievement curves 
-
-### Accounting for risk factors on health outcomes: The case of Luxembourg, 
+### Mussard & Pi Alperin (2020), "Accounting for risk factors on health outcomes: The case of Luxembourg", 
 _**European Journal of Operational Research**_, [open acess click here](https://doi.org/10.1016/j.ejor.2020.09.040)
 
 
