@@ -1,6 +1,7 @@
 ## Mussard & Pi Alperin 2020 : $\alpha-\nu$ Achievement curves 
 
-### Accounting for risk factors on health outcomes: The case of Luxembourg, European Journal of Operational Research, [open acess](https://doi.org/10.1016/j.ejor.2020.09.040)
+### Accounting for risk factors on health outcomes: The case of Luxembourg, 
+_European Journal of Operational Research_, [open acess](https://doi.org/10.1016/j.ejor.2020.09.040)
 
 
 The python code "A-curves.py" allows to replicate similar achievement curves as those presented in the paper from Mussard & Pi Alperin (2020). "Accounting for risk factors on health outcomes: The case of Luxembourg".
