@@ -1,6 +1,6 @@
-# Mussard & Pi Alperin 2020 : $\alpha-\nu$ Achievement curves 
+## Mussard & Pi Alperin 2020 : $\alpha-\nu$ Achievement curves 
 
-### \em{Accounting for risk factors on health outcomes: The case of Luxembourg}
+### Accounting for risk factors on health outcomes: The case of Luxembourg, European Journal of Operational Research, [open acess](https://doi.org/10.1016/j.ejor.2020.09.040)
 
 
 The python code "A-curves.py" allows to replicate similar achievement curves as those presented in the paper from Mussard & Pi Alperin (2020). "Accounting for risk factors on health outcomes: The case of Luxembourg".
@@ -16,7 +16,7 @@ In particular, this python code allows drowing achievement curves accounting for
 (4) different weighting schemes for the aggregation of health dimensions (Cerioli and Zani (1990), Betti and Verma (1998), and Equal weight)
 
 
-# Data to be prepared for the python code:
+## Data to be prepared for the python code:
 
 (1) text file (no head title in the file)
 
@@ -29,7 +29,7 @@ In particular, this python code allows drowing achievement curves accounting for
 (5) See the files "data_risk_alcohol.txt" and "data_risk_smoke.txt" as examples.
 
 
-# References
+## References
 Betti, G. & Verma, V. K. (1998), Measuring the degree of poverty in a dynamic and comparative context: a multi-dimensional approach using fuzzy set theory, Working Paper 22, Dipartimento di Metodi Quantitativi, Università di Siena.
 
 Cerioli, A. and S. Zani (1990), A Fuzzy Approach to the Measurement of Poverty, in Dagum C. and Zenga M. (eds.), Income and Wealth Distribution, Inequality and Poverty, Springer Verlag, Berlin, 272-284.
